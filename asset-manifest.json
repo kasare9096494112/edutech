@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/edutech/static/css/main.17099c7b.css",
-    "main.js": "/edutech/static/js/main.05474f62.js",
+    "main.js": "/edutech/static/js/main.f45f4635.js",
     "static/js/787.15757318.chunk.js": "/edutech/static/js/787.15757318.chunk.js",
     "static/media/boxicons.svg": "/edutech/static/media/boxicons.2932c34d456522282808.svg",
     "static/media/boxicons.eot": "/edutech/static/media/boxicons.c324d2b5569fb2c20e5d.eot",
@@ -12,11 +12,11 @@
     "static/media/bootstrap-icons.woff2?": "/edutech/static/media/bootstrap-icons.66e4109ec6241c76fdcf.woff2",
     "index.html": "/edutech/index.html",
     "main.17099c7b.css.map": "/edutech/static/css/main.17099c7b.css.map",
-    "main.05474f62.js.map": "/edutech/static/js/main.05474f62.js.map",
+    "main.f45f4635.js.map": "/edutech/static/js/main.f45f4635.js.map",
     "787.15757318.chunk.js.map": "/edutech/static/js/787.15757318.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17099c7b.css",
-    "static/js/main.05474f62.js"
+    "static/js/main.f45f4635.js"
   ]
 }

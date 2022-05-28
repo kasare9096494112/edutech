@@ -14,7 +14,6 @@ function Header() {
               <li><a href="/courses">Courses</a></li>
               <li><a href="/trainers">Trainers</a></li>
               <li><a href="/events">Events</a></li>
-              <li><a href="/pricing">Pricing</a></li>
               <li className="dropdown"><a href="/"><span>Standards</span> 
               <i className="bi bi-chevron-down" /></a>
                 <ul>

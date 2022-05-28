@@ -8,7 +8,7 @@ function Trainers() {
       <div className="row" data-aos="zoom-in" data-aos-delay={100}>
         <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div className="member">
-            <img src="https://imgs.search.brave.com/93zZG1JaFRrrIvLEoUroNUydlJb-syDe6SQlR5IOwKM/rs:fit:355:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5LSkgtVVU0/R2NjdVBrRVJUU2w3/WkJ3SGFKNCZwaWQ9/QXBp" className="img-fluid" alt="" />
+            <img src="https://imgs.search.brave.com/tfbnS9rqSSOa4VBrjjfSYJz3nNDK8coL9grZLwFtXR0/rs:fit:416:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/SjdVdndXMnc4azdZ/amwwd24yQ3Z3QUFB/QSZwaWQ9QXBp" className="img-fluid" alt="" />
             <div className="member-content">
               <h4>Radhika Sabhu</h4>
               <span>Mathmatics</span>
@@ -24,7 +24,7 @@ function Trainers() {
         </div>
         <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div className="member">
-            <img src="https://imgs.search.brave.com/93zZG1JaFRrrIvLEoUroNUydlJb-syDe6SQlR5IOwKM/rs:fit:355:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5LSkgtVVU0/R2NjdVBrRVJUU2w3/WkJ3SGFKNCZwaWQ9/QXBp" className="img-fluid" alt="" />
+            <img src="https://imgs.search.brave.com/tfbnS9rqSSOa4VBrjjfSYJz3nNDK8coL9grZLwFtXR0/rs:fit:416:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/SjdVdndXMnc4azdZ/amwwd24yQ3Z3QUFB/QSZwaWQ9QXBp" className="img-fluid" alt="" />
             <div className="member-content">
               <h4>Vaishanvi Arora</h4>
               <span>Science</span>
@@ -40,7 +40,7 @@ function Trainers() {
         </div>
         <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div className="member">
-            <img src="https://imgs.search.brave.com/93zZG1JaFRrrIvLEoUroNUydlJb-syDe6SQlR5IOwKM/rs:fit:355:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5LSkgtVVU0/R2NjdVBrRVJUU2w3/WkJ3SGFKNCZwaWQ9/QXBp" className="img-fluid" alt="" />
+            <img src="https://imgs.search.brave.com/tfbnS9rqSSOa4VBrjjfSYJz3nNDK8coL9grZLwFtXR0/rs:fit:416:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/SjdVdndXMnc4azdZ/amwwd24yQ3Z3QUFB/QSZwaWQ9QXBp" className="img-fluid" alt="" />
             <div className="member-content">
               <h4>Surykant Kasare</h4>
               <span>Mathmatics</span>
@@ -56,7 +56,7 @@ function Trainers() {
         </div>
         <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div className="member">
-            <img src="https://imgs.search.brave.com/93zZG1JaFRrrIvLEoUroNUydlJb-syDe6SQlR5IOwKM/rs:fit:355:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5LSkgtVVU0/R2NjdVBrRVJUU2w3/WkJ3SGFKNCZwaWQ9/QXBp" className="img-fluid" alt="" />
+            <img src="https://imgs.search.brave.com/tfbnS9rqSSOa4VBrjjfSYJz3nNDK8coL9grZLwFtXR0/rs:fit:416:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/SjdVdndXMnc4azdZ/amwwd24yQ3Z3QUFB/QSZwaWQ9QXBp" className="img-fluid" alt="" />
             <div className="member-content">
               <h4>Priush Sonvane</h4>
               <span>Science</span>

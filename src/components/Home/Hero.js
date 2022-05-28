@@ -65,49 +65,6 @@ function Hero() {
             </div>
           </div>
         </section>
-        {/* ======= Counts Section ======= */}
-        <section id="counts" className="counts section-bg">
-          <div className="container">
-            <div className="row counters">
-              <div className="col-lg-3 col-6 text-center">
-                <span
-                  data-purecounter-start={0}
-                  data-purecounter-end={86}
-                  data-purecounter-duration={1}
-                  className="purecounter"
-                />
-                <p>Viewer's</p>
-              </div>
-              <div className="col-lg-3 col-6 text-center">
-                <span
-                  data-purecounter-start={0}
-                  data-purecounter-end={3}
-                  data-purecounter-duration={1}
-                  className="purecounter"
-                />
-                <p>Courses</p>
-              </div>
-              <div className="col-lg-3 col-6 text-center">
-                <span
-                  data-purecounter-start={0}
-                  data-purecounter-end={1}
-                  data-purecounter-duration={1}
-                  className="purecounter"
-                />
-                <p>Events</p>
-              </div>
-              <div className="col-lg-3 col-6 text-center">
-                <span
-                  data-purecounter-start={0}
-                  data-purecounter-end={4}
-                  data-purecounter-duration={1}
-                  className="purecounter"
-                />
-                <p>Trainers</p>
-              </div>
-            </div>
-          </div>
-        </section>
         <section id="why-us" className="why-us">
           <div className="container" data-aos="fade-up">
             <div className="row">
@@ -135,5 +92,4 @@ function Hero() {
     </div>
   );
 }
-
 export default Hero;

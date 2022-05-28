@@ -19,9 +19,9 @@ function footer() {
             <h4>Useful Links</h4>
             <ul>
               <li><i className="bx bx-chevron-right" /> <a href="/">Home</a></li>
-              <li><i className="bx bx-chevron-right" /> <a href="/">About us</a></li>
-              <li><i className="bx bx-chevron-right" /> <a href="/">Services</a></li>
-              <li><i className="bx bx-chevron-right" /> <a href="/">Terms of service</a></li>
+              <li><i className="bx bx-chevron-right" /> <a href="/about">About us</a></li>
+              <li><i className="bx bx-chevron-right" /> <a href="/courses">Courses</a></li>
+              <li><i className="bx bx-chevron-right" /> <a href="/trainers">Trainers</a></li>
             </ul></div>
           <div className="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>

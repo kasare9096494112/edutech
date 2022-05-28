@@ -12,7 +12,6 @@ import Coursespage from './components/courses/Coursespage';
 import Trainerspage from './components/trainers/Trainerspage';
 import Events from './components/events/Events';
 import Contectpage from './components/conteact/Contectpage';
-import Pricing from './components/pricing/Pricing';
 import {
   BrowserRouter as Router,
   Route,
@@ -33,7 +32,6 @@ function App() {
         <Route path="/trainers" element={<Trainerspage/>} />
         <Route path="/contect" element={<Contectpage/>} />
         <Route path="/events" element={<Events/>} />
-        <Route path="/pricing" element={<Pricing/>} />
         <Route path="*" element={<Navigate to="/"/>} />
       </Routes>
       <Footer />
